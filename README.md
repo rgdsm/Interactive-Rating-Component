@@ -22,13 +22,13 @@ Antes de executar este projeto, certifique-se de ter os seguintes requisitos ins
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/nome-do-projeto.git
+git clone [https://github.com/seu_usuario/nome-do-projeto.git](https://github.com/rgdsm/Interactive-rating-component)
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd nome-do-projeto
+cd /Interactive-rating-component
 ```
 
 3. Abra o arquivo `index.html` em um navegador web.
